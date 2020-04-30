@@ -1,0 +1,1992 @@
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - ValidationError: Subcscribers validation failed: Email: Path `Email` is required.
+    at new ValidationError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2554:32)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2376:17
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\schematype.js:1099:9
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - ReferenceError: emailObj is not defined
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:7:26
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\hp\Desktop\WJ\WJWS\utilities\requestlogger.js:9:5)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - ValidationError: Subcscribers validation failed: Email: Path `Email` is required.
+    at new ValidationError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2554:32)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2376:17
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\schematype.js:1099:9
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Mon Apr 20 2020 - MongoError: Projection cannot have a mix of inclusion and exclusion.
+    at Connection.<anonymous> (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:450:61)
+    at Connection.emit (events.js:223:5)
+    at processMessage (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\connection.js:384:10)
+    at Socket.<anonymous> (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\connection.js:553:15)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:181:23)
+Mon Apr 20 2020 - ReferenceError: err is not defined
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:23:13
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Email Id already exists
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Email Id already exists
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Email Id already exists
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Email Id already exists
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - ReferenceError: value is not defined
+    at Object.validator.validateEmail (C:\Users\hp\Desktop\WJ\WJWS\utilities\validator.js:4:22)
+    at Object.service.insertEmails (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:5:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:7:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+Mon Apr 20 2020 - ReferenceError: value is not defined
+    at Object.validator.validateEmail (C:\Users\hp\Desktop\WJ\WJWS\utilities\validator.js:4:22)
+    at Object.service.insertEmails (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:5:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:7:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - TypeError: model.generateId(...).then is not a function
+    at Object.model.createComment (C:\Users\hp\Desktop\WJ\WJWS\model\test.js:11:31)
+    at Object.service.createComment (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:25:20)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:18:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+Mon Apr 20 2020 - TypeError: model.generateId(...).then is not a function
+    at Object.model.createComment (C:\Users\hp\Desktop\WJ\WJWS\model\test.js:12:31)
+    at Object.service.createComment (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:25:20)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:18:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+Mon Apr 20 2020 - TypeError: model.generateId(...).then is not a function
+    at Object.model.createComment (C:\Users\hp\Desktop\WJ\WJWS\model\test.js:12:25)
+    at Object.service.createComment (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:25:20)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:18:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+Mon Apr 20 2020 - TypeError: dbLayer.createComment(...).then is not a function
+    at Object.service.createComment (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:25:46)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:18:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+Mon Apr 20 2020 - ReferenceError: respose is not defined
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:26:9
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 21 2020 - ReferenceError: response is not defined
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:27:13
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - ReferenceError: response is not defined
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:26:9
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - BadRequestError: request aborted
+    at IncomingMessage.onAborted (C:\Users\hp\Desktop\WJ\WJWS\node_modules\raw-body\index.js:231:10)
+    at IncomingMessage.emit (events.js:223:5)
+    at abortIncoming (_http_server.js:507:9)
+    at socketOnClose (_http_server.js:500:3)
+    at Socket.emit (events.js:228:7)
+    at TCP.<anonymous> (net.js:664:12)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 21 2020 - TypeError: data is not iterable
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:115:26
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:376:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1001 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 21 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 21 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 21 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 21 2020 - SyntaxError: Unexpected number in JSON at position 15
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\hp\Desktop\WJ\WJWS\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\hp\Desktop\WJ\WJWS\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\hp\Desktop\WJ\WJWS\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\hp\Desktop\WJ\WJWS\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:228:7)
+    at endReadableNT (_stream_readable.js:1185:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - TypeError: dbLayer.createComment(...).then is not a function
+    at Object.service.createComment (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:38:53)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:19:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+Wed Apr 22 2020 - TypeError: dbLayer.createComment(...).then is not a function
+    at Object.service.createComment (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:38:53)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:19:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1002 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Wed Apr 22 2020 - CastError: Cast to number failed for value "NaN" at path "CommentId"
+    at new CastError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:150:110
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - CastError: Cast to number failed for value "NaN" at path "CommentId"
+    at new CastError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:150:110
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - CastError: Cast to number failed for value "NaN" at path "CommentId"
+    at new CastError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:150:110
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - CastError: Cast to number failed for value "NaN" at path "CommentId"
+    at new CastError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:150:110
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - CastError: Cast to number failed for value "NaN" at path "CommentId"
+    at new CastError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:150:110
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - CastError: Cast to number failed for value "NaN" at path "CommentId"
+    at new CastError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:150:110
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - CastError: Cast to number failed for value "NaN" at path "CommentId"
+    at new CastError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:150:110
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - CastError: Cast to number failed for value "NaN" at path "CommentId"
+    at new CastError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:150:110
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - CastError: Cast to number failed for value "NaN" at path "CommentId"
+    at new CastError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\model\test.js:150:110
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the replies for commentId -> 2426
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the replies for commentId -> 4632
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the replies for commentId -> 4632
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the replies for commentId -> 2426
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the replies for commentId -> 9107
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Wed Apr 22 2020 - Error: Some error occured while getting the replies for commentId -> 9964
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 0 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - ValidationError: Posts validation failed: PostId: Path `PostId` is required.
+    at new ValidationError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2554:32)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2376:17
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\schematype.js:1099:9
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - ValidationError: Posts validation failed: PostId: Path `PostId` is required.
+    at new ValidationError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2554:32)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2376:17
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\schematype.js:1099:9
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - ValidationError: Posts validation failed: PostId: Path `PostId` is required.
+    at new ValidationError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2554:32)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2376:17
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\schematype.js:1099:9
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 2016
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 9068
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 9068
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 9068
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 9068
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 2767
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 4574
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 5970
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 5970
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:210:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:159:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - Error: Some error occured while increasing likes for post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:132:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:159:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Thu Apr 23 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:159:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the comments for postId -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:80:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 9572
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Some error occured while getting the replies for commentId -> 9718
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Thu Apr 23 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Fri Apr 24 2020 - Error: Some error occured while getting the replies for commentId -> 6443
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Fri Apr 24 2020 - Error: Some error occured while getting the replies for commentId -> 6443
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Fri Apr 24 2020 - Error: Some error occured while getting the replies for commentId -> 6443
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - MongoError: E11000 duplicate key error collection: WJDB.ContactDB index: Email_1 dup key: { Email: "tadim777@gmail.com" }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sat Apr 25 2020 - MongoError: E11000 duplicate key error collection: WJDB.ContactDB index: Name_1 dup key: { Name: "Saroj Acharya" }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sat Apr 25 2020 - MongoError: E11000 duplicate key error collection: WJDB.ContactDB index: Name_1 dup key: { Name: "Saroj Acharya" }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sat Apr 25 2020 - TypeError: dbLayer.getAllMessages is not a function
+    at Object.service.getAllMessages (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:194:20)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:142:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+Sat Apr 25 2020 - SyntaxError: Unexpected string in JSON at position 206
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\hp\Desktop\WJ\WJWS\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\hp\Desktop\WJ\WJWS\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\hp\Desktop\WJ\WJWS\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\hp\Desktop\WJ\WJWS\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:228:7)
+    at endReadableNT (_stream_readable.js:1185:12)
+    at processTicksAndRejections (internal/process/task_queues.js:81:21)
+Sat Apr 25 2020 - MongoError: E11000 duplicate key error collection: WJDB.ContactDB index: Name_1 dup key: { Name: "Aditya Mahapatra" }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sat Apr 25 2020 - Error: Could not retrieve the messages
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:199:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Could not retrieve the messages
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:199:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Could not retrieve the messages
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:199:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:81:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:81:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:81:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:81:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:81:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sat Apr 25 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:81:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - Error: Some error occured while getting the replies for commentId -> 16
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:106:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while posting your reply
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while posting your reply
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while posting your reply
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while posting your reply
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while posting your reply
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:68:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:81:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - Error: Some error occured while getting the PostIds
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:81:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 26 2020 - ValidationError: Posts validation failed: PostId: Path `PostId` is required.
+    at new ValidationError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2554:32)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2376:17
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\schematype.js:1099:9
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - ValidationError: Posts validation failed: PostId: Path `PostId` is required.
+    at new ValidationError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2554:32)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2376:17
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\schematype.js:1099:9
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1002 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Comments index: Comments.CommentId_1 dup key: { Comments.CommentId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 26 2020 - MongoError: E11000 duplicate key error collection: WJDB.Posts index: PostId_1 dup key: { PostId: 1002 }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Mon Apr 27 2020 - Error: Some error occured while getting the comments for postId -> 1003
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 27 2020 - Error: Some error occured while getting the comments for postId -> 1007
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 27 2020 - Error: Some error occured while getting the comments for postId -> 1011
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 27 2020 - Error: Some error occured while getting the comments for postId -> 1015
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 27 2020 - Error: Some error occured while getting the replies for commentId -> 9264
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:106:25
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 27 2020 - Error: Some error occured while getting the comments for postId -> 1007
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:93:25
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Tue Apr 28 2020 - MongoError: E11000 duplicate key error collection: WJDB.Replies index: Replies.ReplyId_1 dup key: { Replies.ReplyId: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Tue Apr 28 2020 - Error: Some error occured while getting likes for Post -> 1001
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:172:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
